@@ -1,0 +1,14 @@
+Package: strandseqExampleData
+Type: Package
+Title: Strand-seq Data for Demonstration Purposes
+Version: 0.99.0
+Date: 2016-08
+Author: Aaron Taudt
+Maintainer: Aaron Taudt <aaron.taudt@gmail.com>
+Description: Strand-seq data for demonstration purposes in other packages.
+Depends:
+    R (>= 3.3)
+License: file LICENSE
+biocViews: Homo_sapiens_Data, CellCulture, SequencingData
+NeedsCompilation: no
+RoxygenNote: 5.0.1
